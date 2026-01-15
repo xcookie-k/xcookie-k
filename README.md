@@ -29,13 +29,6 @@ Docker, AWS (EC2, S3), Linux, Nginx, CI/CD
 #### ✔ Auth & Security
 JWT, OAuth2, RBAC
 
-## Github Status
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=xcookie-k&count_private=true" width="50.25%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcookie-k&layout=compact" width="42%"/>
-</div>
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytrii-voitenko-7304a8392/)
