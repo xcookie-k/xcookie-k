@@ -1,4 +1,4 @@
-# Dmytrii Voitenko
+# Artur Zhevner
 ## Full Stack Developer 👋
 
 <p>
@@ -28,8 +28,3 @@ Docker, AWS (EC2, S3), Linux, Nginx, CI/CD
 
 #### ✔ Auth & Security
 JWT, OAuth2, RBAC
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytrii-voitenko-7304a8392/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:voitenkodmytrii@gmail.com)
